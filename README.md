@@ -8,7 +8,7 @@
 
 *Advanced Packaging & 3D Integration* is a comprehensive exploration of chiplet architecture, micro-bump interconnects, wafer bonding physics, and thermal management at the sub-micron scale. This book bridges the physics of heterogeneous integration with the economics of packaging equipment oligopolies, revealing why companies like **ASM Pacific Technology (ASMPT)** and **Amkly** command durable competitive advantages in the final, most capital-intensive layer of semiconductor fabrication.
 
-Following the Charlie Munger lattice-work model established in Books 1-4, this book combines:
+Following a multidisciplinary lattice-work model established in Books 1-4, this book combines:
 - **Physical first principles** (bump formation, bondline thickness, thermal expansion mismatch, warpage mechanics)
 - **Integration architecture secrets** (chiplet interconnect standards: UCIe, EMIB, 2.5D/3D stacking strategies)
 - **Economic moats** (packaging capex cycles, yield learning curves, supplier switching costs)
@@ -55,7 +55,7 @@ This book is designed for:
 ```
 ebook-packaging-3d-integration/
 ├── README.md                          (this file)
-├── PREFACE.md                         (Charlie Munger: The Final Frontier)
+├── PREFACE.md                         (Preface: The Packaging Frontier)
 ├── chapters/
 │   ├── 01-death-of-moores-law.md
 │   ├── 02-bump-physics.md

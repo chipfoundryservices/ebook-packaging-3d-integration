@@ -245,7 +245,7 @@ Year    Installed Base    Service Revenue/Tool    Total Service Rev
 
 ---
 
-## Part V: The Complete Semiconductor Stack & Charlie Munger's Latticework
+## Part V: The Complete Semiconductor Stack & Multidisciplinary Latticework
 
 ### Books 1-5 as the Semiconductor Capital Allocation Blueprint
 
@@ -278,7 +278,7 @@ Most investors focus on **one layer** (device physics at TSMC, or optics at ASML
 
 ### The Slow-Motion Compounding Engine
 
-Charlie Munger teaches that the best investments are those where:
+First-principles investing teaches that the best investments are those where:
 
 1. **You understand the business deeply** (we have; 7 chapters of physics + economics)
 2. **The competitive advantage is durable** (moats are irreversible; service lock-in, process IP)
@@ -336,7 +336,7 @@ You can now evaluate **any semiconductor capital allocation decision** through t
 
 *Equipment suppliers enter a 5-7 year supercycle driven by chiplet adoption and 3D NAND stacking, with service revenue providing downside protection and predictable compounding. This is the best-positioned segment of semiconductor capital allocation for 2024-2028.*
 
-**Charlie Munger's closing wisdom:**
+**Closing strategic wisdom:**
 
 > "The big money is not in the buying and the selling, but in the waiting. Packaging equipment suppliers have 3-5 year visibility into capex, and 10-year visibility into service revenue. You can sit on your hands for 5-7 years, collect service revenue, and watch compound interest work. That is the essence of slow-motion compounding."
 

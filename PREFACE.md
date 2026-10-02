@@ -1,6 +1,6 @@
 # Preface: Why Packaging Is the True Frontier
 
-## By Charlie Munger's Latticework Principles
+## First-Principles Latticework & Economic Moats
 
 ---
 
@@ -122,7 +122,7 @@ Equipment suppliers who master packaging will accumulate:
 
 ## The Slow-Motion Compounding in Packaging
 
-Charlie Munger teaches: *Compounding works best when you sit on your hands for years.*
+Value investing principles dictate: *Compounding works best when you sit on your hands for years.*
 
 In packaging, compounding looks like this:
 
@@ -170,7 +170,7 @@ You now have the latticework to understand competitive advantage across every la
 
 ---
 
-**Charlie Munger's Closing Thought:**
+**Strategic Closing Thought:**
 
 *"The semiconductor industry's true moat is not in making smaller transistors—it is in building systems that integrate smaller transistors with things that cannot get smaller: power delivery, thermal dissipation, mechanical reliability. Packaging is where physics and economics converge most profitably. And it is where the slowest compounding lives. Wait for the right moments, allocate heavily when the opportunity is clear, and let compound interest do the work for you. The money is not in trading packaging equipment stocks; it is in understanding why they will outcompound for twenty years."*
 
